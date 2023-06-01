@@ -8,5 +8,3 @@ WGSprisma provides an efficient strategy for WGS-data variant filtering and prio
 
 The code is not publicaly available yet.
 If you are interested, please contact María Rodríguez-Hidalgo at maria.rodriguezhiddalgo@biodonostia.org
-
-![WGSprisma_logo](WGSPrisma_icon.png)
