@@ -1,4 +1,4 @@
-![WGSprisma_logo](WGSPrisma_icon.png)
+#![WGSprisma_logo](WGSPrisma_icon.png)
 <img src="WGSPrisma_icon.png" alt= “” width="200" height="200">
 
 # WGSprisma
