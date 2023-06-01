@@ -7,4 +7,5 @@ As the implementation of whole genome sequencing (WGS) is increasing, it is desi
 WGSprisma provides an efficient strategy for WGS-data variant filtering and prioritization, which aids in determining genetic diagnosis in unsolved cases.
 
 The code is not publicaly available yet.
+
 If you are interested, please contact María Rodríguez-Hidalgo at maria.rodriguezhiddalgo@biodonostia.org
