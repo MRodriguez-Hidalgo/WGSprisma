@@ -1,5 +1,5 @@
 ![WGSprisma_logo](WGSPrisma_icon.png)
-<img src="WGSPrisma_icon.png" alt= “” width="2" height="2">
+<img src="WGSPrisma_icon.png" alt= “” width="20" height="20">
 
 # WGSprisma
 
