@@ -1,4 +1,4 @@
-<img src="WGSPrisma_icon.png" alt= “” width="200" height="200">
+<img src="WGSPrisma_icon.png" alt= “” width="100" height="100">
 
 # WGSprisma
 
