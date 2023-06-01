@@ -10,4 +10,4 @@ If you are attending ESGH2023 in Glasgow, don't forget to visit Poster P18.020.D
 
 The code is not currently publicly available.
 
-If you are interested, please contact María Rodríguez-Hidalgo at maria.rodriguezhiddalgo@biodonostia.org
+If you are interested, please contact María Rodríguez-Hidalgo at maria.rodriguezhidalgo@biodonostia.org
