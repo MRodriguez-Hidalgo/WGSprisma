@@ -1,4 +1,4 @@
-![WGSprisma_logo](C:/Users/maria/Desktop/Lab/ESHG_2023/WGSPrisma_icon.png)
+![WGSprisma_logo](WGSPrisma_icon.png)
 
 # WGSprisma
 
