@@ -1,4 +1,5 @@
 <img src="WGSPrisma_icon.png" alt= “” width="100" height="100"> 
+
 # WGSprisma
 
 As the implementation of whole genome sequencing (WGS) is increasing, it is desired to standardize and unify data analysis pipelines. We have developed an application, coined WGSPrisma, for automated variant filtering and prioritization in inherited retinal dystrophies (IRD).
